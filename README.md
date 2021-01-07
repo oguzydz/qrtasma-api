@@ -4,9 +4,9 @@ The backend api service is made for [QRTasma Repo](https://github.com/oguzydz/qr
 
 ## Initalize 
 
-git clone https://github.com/oguzydz/qrtasma-api.git
-composer install
-php -S localhost:8000 -t public (you can use other port which is appropriate for you.)
-have a great coding!
+git clone https://github.com/oguzydz/qrtasma-api.git <br/>
+composer install <br/>
+php -S localhost:8000 -t public (you can use other port which is appropriate for you.) <br/>
+have a great coding!<br/>
 
 
